@@ -46,7 +46,7 @@ We hope to see you all in Hinxton in April!
 # Program
 
 ## Day 1
-
+|08:30 - Coach from Cambridge|
 |09:30 - 10:00| Registration|
 |||
 | **Welcome Address** ||
@@ -83,6 +83,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 2
 
+|8:30 - Coach from Cambridge|
 | **Keynote Lecture II** – Title TBC ||
 |09:30 - 10:20| Louise Walport (Francis Crick Institute)|
 |||
@@ -127,6 +128,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 3
 
+|8:30 - Coach from Cambridge|
 | **Keynote Lecture IV** – Title TBC||
 |09:30 - 10:20| TBC|
 |||
@@ -180,6 +182,7 @@ Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is n
 The registration fee for participants is set to £260 which includes:
 
 3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday <br>
+Coach service between the venue and Cambridge
 Ongoing access to the poster area <br>
 Certificate of attendance <br>
 Conference dinner
@@ -198,7 +201,7 @@ Accommodation is not included in the registration fee, but we have listed our re
 
 Important guidelines for participants
 
-A one page Abstract should be submitted for both oral and poster presentations. The deadline for Abstract submission is set to **February 28 2019**. Selected speakers will be notified by **March 11 2019**. Please email your abstract in Microsoft word format to <info@bioexcel.eu>.
+A one page abstract should be submitted for both oral and poster presentations. The deadline for abstract submission is set to **February 28 2019**. Selected speakers will be notified by **March 11 2019**. Please email your abstract in Microsoft word format to <info@bioexcel.eu>.
 
 Following the tradition of the meeting, the selected speakers will also be invited to contribute to the special issue of Proteins dedicated to CAPRI that will be published late 2019. Participants who apply for a regular talk should thus present work that is publishable and agree to contribute a manuscript for the Proteins special issue.
 
@@ -235,7 +238,18 @@ Tel: +44 (0)871 984 6101
 Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit <https://www.airbnb.com> for more information.
 
 <hr>
+# Coach Service
+There will be a free bus service organised to/from the venue in Hinxton to multiple stops in Cambridge. The pick off/drop points in Cambridge are - Grafton Centre, Cambridge railway staion and Mowbray road. Specific details will be sent closer to the date.
+
+<hr>
 # CAPRI Workshop
 
 We are looking to organize a Hands-on Workshop to take place from Monday, 1st April 2019 to Tuesday, 2nd April 2019. More information to follow soon.
+
+# Contact information
+
+Michelle Mendonca
+
+mmendonca@ebi.ac.uk
++44 (0) 1223 494335
 
