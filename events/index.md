@@ -250,6 +250,6 @@ We are looking to organize a Hands-on Workshop to take place from Monday, 1st Ap
 
 Michelle Mendonca
 
-mmendonca@ebi.ac.uk
+mmendonca@ebi.ac.uk <br>
 +44 (0) 1223 494335
 
