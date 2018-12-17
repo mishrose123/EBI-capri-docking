@@ -83,7 +83,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 2
 
-|8:30 - Coach from Cambridge|
+|08:30 - Coach from Cambridge|
 | **Keynote Lecture II** – Title TBC ||
 |09:30 - 10:20| Louise Walport (Francis Crick Institute)|
 |||
@@ -128,7 +128,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 3
 
-|8:30 - Coach from Cambridge|
+|08:30 - Coach from Cambridge|
 | **Keynote Lecture IV** – Title TBC||
 |09:30 - 10:20| TBC|
 |||
