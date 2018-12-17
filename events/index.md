@@ -239,7 +239,7 @@ Airbnb is a trusted community marketplace for people to list, discover, and book
 
 <hr>
 # Coach Service
-There will be a free bus service organised to/from the venue in Hinxton to multiple stops in Cambridge. The pick off/drop points in Cambridge are - Grafton Centre, Cambridge railway staion and Mowbray road. Specific details will be sent closer to the date.
+There will be a free bus service organised to/from the venue in Hinxton to multiple stops in Cambridge. The pick up and drop points in Cambridge are - Grafton Centre, Cambridge railway station and Mowbray road. Specific details will be sent closer to the date.
 
 <hr>
 # CAPRI Workshop
